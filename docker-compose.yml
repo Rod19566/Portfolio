@@ -11,4 +11,3 @@ services:
      - type: bind
        source: ./
        target: /src/app
-   tty: true
